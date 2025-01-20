@@ -152,6 +152,7 @@ i{
     }
     .banner-img{
         grid-area: banner-img;
+        width: 90%;
     }
     .menu-icon{
         grid-area: menu-icon;
